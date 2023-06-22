@@ -119,7 +119,7 @@ Try out deep learning and AI models online on Colab.
 
 ## 3d, Games and Animation 
 * The Blender Render Farm - No Signup Needed [sammindinventory]([https://github.com/sammindinvenotry](https://github.com/Sammindinventory/Google-Colab-Deep-Learning-and-AI/blob/main/Blender_Render_Farm_No_Signup_Needed.ipynb)) on Youtube videos
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb](https://colab.research.google.com/drive/1iNp72cfJ3JXC3axZyx3V__z6ThJ4snuY?usp=sharing))
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb](https://github.com/sammindinvenotry](https://github.com/Sammindinventory/Google-Colab-Deep-Learning-and-AI/blob/main/Blender_Render_Farm_No_Signup_Needed.ipynb)]())
 
 ## Misc
 * Slow motion using [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) on Youtube videos
