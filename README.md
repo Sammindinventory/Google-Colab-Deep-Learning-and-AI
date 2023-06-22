@@ -1,4 +1,6 @@
-Try out deep learning models online on Colab with a single click.
+Awesome Google Colab & Jupiter NoteBooks
+
+Try out deep learning and AI models online on Colab.
 
 ## TTS
 * An English female voice ([LJSpeech](https://keithito.com/LJ-Speech-Dataset/)) demo using [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) and [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/NVidia_Tacotron2_Waveglow.ipynb)
